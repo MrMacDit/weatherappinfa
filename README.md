@@ -1,2 +1,3 @@
 # weatherappinfa
- Training with the weatherappinfa in DevOps
+
+    This is a simple weather app
